@@ -68,3 +68,6 @@ Open up Run command box by pressing Windows logo key + R (or search for "run" in
 - test_mode : True = headless mode is off | False = headless mode is on (headless mode on hides the whole process of adding to cart etc) **headless mode on is detected as of 3/16/24, do not use**
 - timeout : default time in seconds to find a web element before throwing an exception (recommended to have a higher number for slower computers min: 1 max: 60)
 
+## Issues
+Make sure to always test run the exe (including the shortcut) before actually relying on it upon system bootup. Some issues can occur like anti virus protection blocking the exe or Google security verification.
+If there's a game that is written in the **game_log.txt** file but have not claimed it, then deleting the id content can help.
