@@ -24,7 +24,7 @@ Edit and save your google account credentials to **settings.cfg**. (See image be
 ![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/9326761a-6a73-4018-8aa5-50311d9272c7)
 
 Run **ClaimFreeGamesBot Launcher.exe**
-[virustotallink](https://www.virustotal.com/gui/file/5837077604173ad4fa0237dfeeb360c8a9b3b43e9876dd04e8dfa914dcbd2e3c?nocache=1)
+[virustotal](https://www.virustotal.com/gui/file/5837077604173ad4fa0237dfeeb360c8a9b3b43e9876dd04e8dfa914dcbd2e3c?nocache=1)
 
 Be wary of having to check for Google login verification, virus protection prompts, and other permissions for the first time it runs.
 It is recommended to keep test mode setting on when running to check if Google login requires some sort of confirmation.
