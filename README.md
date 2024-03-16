@@ -4,13 +4,11 @@
 Automates finding daily free games on the Epic Games Store, adds them to the shopping cart, and prompts the final transaction to the user to complete on the Epic Games Store.
 
 ![image](https://github.com/619cip/Claim-Free-Games-Bot/assets/78285511/b7d8add1-b4c3-4ae9-9a7d-8ce1530afa37)
-
-You would still have to check out manually.
 ***
 ## Requirements
 - Windows OS
-- Gmail (preferably a spare one)
-- Chrome browser
+- Gmail account (preferably a spare one)
+- Chromium based browser
 ***
 ## Getting Started
 The first step to getting started is to download the zip file, **[cfgb-launcher-v1-3-9-24.zip](https://github.com/619cip/Claim-Free-Games-Grabber/releases/download/v1.0/cfgb-launcher-v1-3-9-24.zip)**
@@ -64,7 +62,7 @@ Open up Run command box by pressing Windows logo key + R (or search for "run" in
 #### Step 3: Drag and drop the shortcut exe to Startup folder
 ![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/81976070-0453-462a-8055-ff9a6013483b)
 
-##### Every time your system boots up now, it will launch the executable and add available free games.
+##### Upon system boot up now, it will launch the executable.
 ***
 ## Settings
 - test_mode : True = headless mode is off | False = headless mode is on (headless mode on hides the whole process of adding to cart etc) **headless mode on is detected as of 3/16/24, do not use**
