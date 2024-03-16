@@ -1,4 +1,7 @@
 # Claim Free Games Bot
+**Disclaimer:** This script does not actually CONFIRM the purchase, instead it adds the game to your cart and requires you to finish the transaction.
+
+
 Automates finding daily free games on the Epic Games Store, adds them to the shopping cart, and prompts the transaction to the user to complete on the Epic Games Store.
 ## Requirements
 - Windows OS
@@ -10,6 +13,10 @@ The first step to getting started is to download the zip file, **[cfgb-launcher-
 Once downloaded, unzip the file. (this might take a while so follow the step below)
 
 While you wait for the file to unzip or have already unzipped the file, link your google account to Epic Games by following [Linking your Google account to Epic Games](#Linking-your-Google-account-to-Epic-Games) below
+
+Once you've linked your Google account and unzipped the file, navigate through the unzipped file and find the file: **settings.cfg**
+
+Edit and save your google account credentials to **settings.cfg**. (See below)
 
 ![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/9326761a-6a73-4018-8aa5-50311d9272c7)
 
