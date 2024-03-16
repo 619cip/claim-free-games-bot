@@ -60,6 +60,6 @@ Open up Run command box by pressing Windows logo key + R (or search for "run" in
 ##### Every time your system boots up now, it will launch the executable and add available free games.
 
 ## Settings
-- test_mode : True = headless mode is off. False = headless mode is on (headless mode on hides the process of logging in) **headless mode on does not work as of 3/16/24**
+- test_mode : True = headless mode is off. False = headless mode is on (headless mode on hides the main process) **headless mode on does not work as of 3/16/24**
 - timeout : default time in seconds to find a web element before throwing an exception (recommended to have a higher number for slower computers min: 1 max: 60)
 
