@@ -25,7 +25,7 @@ Run **ClaimFreeGamesBot Launcher.exe**
 Be wary of having to check for Google login verification, virus protection prompts, and other permissions for the first time it runs.
 It is recommended to keep test mode setting on when running to check if Google login requires some sort of confirmation.
 
-Follow [Launch exe upon startup](#Launch-exe-upon-startup) to exe upon system startup.
+Follow [Launch exe upon startup](#Launch-exe-upon-startup) to "automate" the process upon system startup.
 
 ## Linking your Google account to Epic Games
 #### Step 1: Open up [Epic Games Login](https://www.epicgames.com/id/login?lang=en-US) and click on the Google logo
@@ -40,3 +40,22 @@ You may have to provide your birthday, come up with a name, and verify email add
 ##### Once you're logged in, you've successfully linked your Google account to Epic Games.
 
 ## Launch exe upon startup
+#### Step 1: Create a shortcut of the executable.
+Right click on **ClaimFreeGamesBot Launcher.exe** and click **Show more options**
+
+![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/52717f43-fa2d-49b0-b104-c2741627f25f)
+
+Click on **Create Shortcut**
+
+![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/5b468cdb-35bf-4045-96f8-4da2a1ac82d6)
+
+#### Step 2: Open up your Startup folder
+Open up Run command box by pressing Windows logo key + R (or search for "run" in windows search bar) and type in **shell:startup**, then select OK
+
+![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/d52039b0-4845-4763-ac9c-74def8b74c09)
+
+#### Step 3: Drag and drop the shortcut exe to Startup folder
+![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/81976070-0453-462a-8055-ff9a6013483b)
+
+##### Every time your system boots up now, it will launch the executable and add games to the cart.
+
