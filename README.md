@@ -1,6 +1,7 @@
 # Claim Free Games Bot
 **Disclaimer:** This script does not actually CONFIRM the purchase, instead it adds the game to your cart and requires you to finish the transaction.
 
+[virustotallink](https://www.virustotal.com/gui/file/5837077604173ad4fa0237dfeeb360c8a9b3b43e9876dd04e8dfa914dcbd2e3c?nocache=1)
 
 Automates finding daily free games on the Epic Games Store, adds them to the shopping cart, and prompts the transaction to the user to complete on the Epic Games Store.
 ## Requirements
@@ -16,9 +17,14 @@ While you wait for the file to unzip or have already unzipped the file, link you
 
 Once you've linked your Google account and unzipped the file, navigate through the unzipped file and find the file: **settings.cfg**
 
-Edit and save your google account credentials to **settings.cfg**. (See below)
+Edit and save your google account credentials to **settings.cfg**. (See image below)
 
 ![image](https://github.com/619cip/Claim-Free-Games-Grabber/assets/78285511/9326761a-6a73-4018-8aa5-50311d9272c7)
+
+Run **ClaimFreeGamesBot Launcher.exe**
+
+Be wary of having to check for Google login confirmation prompts, virus protection prompts, and other permissions for the first time it runs.
+It is recommended to keep test mode setting on when running to check if Google login requires some sort of confirmation.
 
 ## Linking your Google account to Epic Games
 #### Step 1: Open up [Epic Games Login](https://www.epicgames.com/id/login?lang=en-US) and click on the Google logo
@@ -31,3 +37,5 @@ Fillout and finish the criterias logging into your Google Account.
 You may have to provide your birthday, come up with a name, and verify email address (same as creating a new account)
 
 ##### Once you're logged in, you've successfully linked your Google account to Epic Games.
+
+## Boot upon
