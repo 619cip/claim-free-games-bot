@@ -29,7 +29,7 @@ Run **ClaimFreeGamesBot Launcher.exe**
 Be wary of having to check for Google login verification, virus protection prompts, and other permissions for the first time it runs.
 It is recommended to keep test mode setting on when running to check if Google login requires some sort of confirmation.
 
-Follow [Launch exe upon startup](#Launch-exe-upon-startup) to "automate" the process upon system startup.
+Follow [Launch executable upon startup](#Launch-executable-upon-startup) to "automate" the process upon system startup.
 ***
 ## Linking your Google account to Epic Games
 #### Step 1: Open up [Epic Games Login](https://www.epicgames.com/id/login?lang=en-US) and click on the Google logo
