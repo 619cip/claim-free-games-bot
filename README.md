@@ -1,5 +1,5 @@
 # Claim Free Games Bot
-**Disclaimer:** This script does not actually CONFIRM the purchase, instead it adds the game to your cart and requires you to finish the transaction. This script utilizes seleniumbase, undetected_chromedriver, and downloads/replace chrome drivers to suit all versions of chrome browser. **For educational purposes only, use at your discretion.**
+**Disclaimer:** This script does not actually CONFIRM the purchase, instead it adds the game to your cart and requires you to finish the prompted transaction. This script utilizes seleniumbase, undetected_chromedriver, and downloads/replace chrome drivers to suit all versions of chrome browser. **For educational purposes only, use at your discretion.**
 
 Automates finding daily free games on the Epic Games Store, adds them to the shopping cart, and prompts the final transaction to the user to complete on the Epic Games Store.
 
